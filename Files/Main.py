@@ -1,3 +1,3 @@
-import Files.Controller as c
+import Controller as c
 
 c.button_click()
